@@ -20,6 +20,11 @@ nav {
     padding: 10px 20px;
 }
 
+nav a {
+    color: #008e07;
+    text-decoration: none;
+}
+
 main {
     
     max-width: 800px; 

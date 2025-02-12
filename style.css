@@ -20,9 +20,15 @@ nav {
     padding: 10px 20px;
 }
 
+div#nav-selection{
+    padding-top: 33%;
+    text-align: center;
+}
+
 nav a {
     color: #008e07;
     text-decoration: none;
+    text-align: center;
 }
 
 main {
@@ -32,6 +38,10 @@ main {
     background: white; 
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     
+}
+
+main h2{
+    text-align: center;
 }
 
 section {
